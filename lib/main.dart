@@ -12,7 +12,7 @@ class NotesApp2 extends StatelessWidget {
     return MaterialApp(
       title: 'Notes App 2',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const MyHomePage(),
+      home: const Scaffold(),
     );
   }
 }
